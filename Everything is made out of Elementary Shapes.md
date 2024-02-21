@@ -1,0 +1,1 @@
+I get very annoyed when I hear people saying that drawing cartoon characters is easy. In order to design immaculate characters, you need to first know how real anatomy and facial structure works and then experiment with it and remove certain limitations. In the end, *depth* exists in 2D animation and it needs respectable craftsmanship in order to mimic it.
