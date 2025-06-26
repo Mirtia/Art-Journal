@@ -5,10 +5,17 @@ Well, I can say that for me, it is. After starting studying Computer Science, I 
 
 But, strangely enough, those were the years that I saw the most significant improvements in my art. Even though I have stopped actively practicing drawing, I continued observing little details on objects and people in my everyday life.
 
-For instance, let's say you are commuting to and from university classes. Unfortunately the attendance starts early in the morning and finishes around late afternoon when the sun starts to set. While being bored at the bus, if you are not the person to scroll endlessly or read a book, you can observe how the lighting interacts with the different materials around you (clothes of the passengers, metallic surfaces, etc) and how the overall color palette of the scenery changes. It may be rude sometimes to stare at people, so try to be discreet! 👀 You can also follow the same practice when you go for a walk. Because our memory is kind of hazy, especially when we are burnout, you can still take pictures of objects and sceneries you may find particularly eye-catching that you can lately use as a reference to create something.
+For instance, let's say you are commuting to and from university classes. Unfortunately the attendance starts early in the morning and finishes around late afternoon when the sun starts to set. While being bored at the bus, if you are not the person to scroll endlessly on your phone or read a book, you can observe how the lighting interacts with the different materials around you (clothes of the passengers, metallic surfaces, etc) and how the overall color palette of the scenery changes. It may be rude sometimes to stare at people, so try to be discreet! 👀 You can also follow the same practice when you go for a walk. 
 
-Observing has to be something you do constantly. 
-Deliberate practice.
-According to many non scientific sources (citation-missing), they say that perception fully develops at your initial adult years. If I see a backed up explanation on this claim, I may believe it. What is true though, is that *observing* requires a percentage of your mental capacity.
+![Bus ride](images/bus-ride.png)
+*Figure 3: [Material reflections](https://www.pexels.com/photo/bus-bench-seats-808846/)*
 
-And if people grow up observing, they may potentially be better at translating the details they have absorbed into paper. If you give a task to draw a house or a human portrait to a teenager and an adult, there is a higher chance for the adult to make a more photo-realistic piece than the teenager. The adult probably had more years in their life to observe the world...
+Because our memory is kind of hazy, especially when we are burnout, someone can still take pictures of objects and sceneries they may find particularly eye-catching which they can lately use as a reference to create something meaningful.
+
+Observing has to be something you do constantly, and when you are idle, you can put the process of it in the foreground. Think of it as some form of [*Deliberate practice*](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf).
+
+According to many non-scientific claims or scarcity of sources, it is said that visual perception fully develops at your initial adult years. What is true though, is that *observing* requires a percentage of your mental capacity, your occipital lobe is definitely working overtime...
+
+But if people grow up observing, even at a more passive rate, they have a better chance at translating the details they have absorbed over the years into paper. I can assume that if you give a task to draw a house or a potrait to a teenager and an adult, there is a higher chance that the adult makes a more realistic representation than the teenager, given no prior training (Give it a try!). The adult has had more years in their life to observe their surroundings. 
+
+
