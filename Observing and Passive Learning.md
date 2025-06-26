@@ -7,7 +7,7 @@ But, strangely enough, those were the years that I saw the most significant impr
 
 For instance, let's say you are commuting to and from university classes. Unfortunately the attendance starts early in the morning and finishes around late afternoon when the sun starts to set. While being bored at the bus, if you are not the person to scroll endlessly on your phone or read a book, you can observe how the lighting interacts with the different materials around you (clothes of the passengers, metallic surfaces, etc) and how the overall color palette of the scenery changes. It may be rude sometimes to stare at people, so try to be discreet! 👀 You can also follow the same practice when you go for a walk. 
 
-![[images/bus-ride.png]]
+![[bus-ride.png]]
 *Figure 3: [Material reflections](https://www.pexels.com/photo/bus-bench-seats-808846/)*
 
 Because our memory is kind of hazy, especially when we are burnout, someone can still take pictures of objects and sceneries they may find particularly eye-catching which they can lately use as a reference to create something meaningful.
