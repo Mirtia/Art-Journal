@@ -20,12 +20,12 @@ It is also important to find specific artists that inspire you, but there is no 
 ... and the list goes on. Lately, I am really fond of [J. M. W. Turner's](https://en.wikipedia.org/wiki/J._M._W._Turner) pieces. He is exceptionally good at capturing mood with color and creating atmospheric pieces with high-skilled and controversial (for his time) watercolor techniques. Here is an example painting:
 
 ![The Lake of Zug](images/the-lake-of-zug.png)
-*Figure 1: The Lake of Zug by J. M. W. Turner.*
+*Figure 1: [The Lake of Zug by J. M. W. Turner](https://www.metmuseum.org/art/collection/search/337499).*
 
 ... and here is my own art where the mood direction was inspired by it:
 
 ![Colorful swamp](images/colorful-swamp.png)
-*Figure 2: Trying to replicate watercolor in digital.*
+*Figure 2: Watercolor replication trial in digital.*
 
 Speaking about traditional art, I also think that it is essential to draw on paper. The choice of medium can easily block you. And yes, "*art block*" is real but there will be a separate section on this matter later on.
 
@@ -35,10 +35,10 @@ I am going to wrap up here by saying that I am still navigating into finding my 
 
 Below is a rough roadmap of the blog, possibly a subject to change.
 
-- [[Perspective and Horizon]]
-- [[Color Theory]]
 - [[Observing and Passive Learning]]
 - [[The Importance of Abstraction]]
-- [[Everything is made out of Elementary Shapes]]
+- [[Perspective and Horizon]]
+- [[Color Theory]]
 - [[Face Structure and Anatomy]]
+- [[Art Block and Lack of Motivation]]
 
